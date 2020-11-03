@@ -5,4 +5,4 @@ import './index.css';
 
 const divRoot = document.querySelector('#root');
 
-ReactDOM.render(<PrimerApp/>, divRoot);
+ReactDOM.render(<PrimerApp saludo="Hola, soy Goku!"/>, divRoot);
