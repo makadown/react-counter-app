@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Proyecto parte del curso de [React desde cero a experto](https://www.udemy.com/course/react-cero-experto) del Maestro Fernando Herrera.
+
+
+## Recursos
+
+Eventos React
+```
+https://es.reactjs.org/docs/events.html
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
