@@ -12,6 +12,11 @@ Eventos React
 https://es.reactjs.org/docs/events.html
 ```
 
+Documentación Jest
+```
+https://jestjs.io/
+``` 
+
 
 ## Available Scripts
 
