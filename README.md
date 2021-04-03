@@ -15,8 +15,17 @@ https://es.reactjs.org/docs/events.html
 Documentación Jest
 ```
 https://jestjs.io/
-``` 
+```
 
+Enzyme para react 17
+```
+https://github.com/wojtekmaj/enzyme-adapter-react-17
+```
+
+Enzyme to Json
+```
+https://www.npmjs.com/package/enzyme-to-json
+```
 
 ## Available Scripts
 
